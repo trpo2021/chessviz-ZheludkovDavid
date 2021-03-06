@@ -1,10 +1,7 @@
+#include <stdlib.h>
 #include <stdio.h>
-
 int main()
 {
-    printf("meta charset=\"utf-8\">\n");
-    printf("<style type=\"text/css\">\n");
-    printf(".white.king:before {content: \"\\2654\";}\n");
-    printf("</style>\n");
+    printf("8rnbqkbnr\n7pppppppp\n6\n5\n4n\3n\2PPPPPPPP\n1RNBQKBNR\nabcdefgh");
     return 0;
 }
