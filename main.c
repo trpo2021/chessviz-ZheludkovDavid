@@ -2,6 +2,6 @@
 #include <stdlib.h>
 int main()
 {
-    printf("8rnbqkbnr\n7pppppppp\n6\n5\n4n\3n\2PPPPPPPP\n1RNBQKBNR\nabcdefgh");
+    printf("8rnbqkbnr\n7pppppppp\n6\n5\n4\n3\n2PPPPPPPP\n1RNBQKBNR\nabcdefgh");
     return 0;
 }
